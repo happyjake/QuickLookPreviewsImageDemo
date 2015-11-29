@@ -14,6 +14,7 @@
 		23F0B4881C0B446100E8826D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23F0B4861C0B446100E8826D /* Main.storyboard */; };
 		23F0B4931C0B446100E8826D /* QuickLookPreviewsImageDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F0B4921C0B446100E8826D /* QuickLookPreviewsImageDemoTests.m */; };
 		23F0B49E1C0B446100E8826D /* QuickLookPreviewsImageDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F0B49D1C0B446100E8826D /* QuickLookPreviewsImageDemoUITests.m */; };
+		23F0B4AC1C0B456700E8826D /* IMG_3925.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23F0B4AB1C0B456700E8826D /* IMG_3925.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		23F0B4991C0B446100E8826D /* QuickLookPreviewsImageDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickLookPreviewsImageDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23F0B49D1C0B446100E8826D /* QuickLookPreviewsImageDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuickLookPreviewsImageDemoUITests.m; sourceTree = "<group>"; };
 		23F0B49F1C0B446100E8826D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23F0B4AB1C0B456700E8826D /* IMG_3925.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3925.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		23F0B47A1C0B446000E8826D /* QuickLookPreviewsImageDemo */ = {
 			isa = PBXGroup;
 			children = (
+				23F0B4AB1C0B456700E8826D /* IMG_3925.jpg */,
 				23F0B47B1C0B446000E8826D /* AppDelegate.h */,
 				23F0B47C1C0B446000E8826D /* AppDelegate.m */,
 				23F0B4811C0B446100E8826D /* ViewController.h */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23F0B4AC1C0B456700E8826D /* IMG_3925.jpg in Resources */,
 				23F0B4851C0B446100E8826D /* Assets.xcassets in Resources */,
 				23F0B4881C0B446100E8826D /* Main.storyboard in Resources */,
 			);
